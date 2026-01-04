@@ -1,0 +1,7 @@
+          {
+  "name": "Prism AI",
+  "description": "Prism AI: A powerful, ChatGPT-like chatbot powered by the Gemini API. It features a sleek, modern interface with real-time streaming responses and markdown rendering.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
